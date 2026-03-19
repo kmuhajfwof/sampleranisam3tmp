@@ -13,7 +13,7 @@ NODES=(
     "https://github.com/yolain/ComfyUI-Easy-Use"
     "https://github.com/kijai/ComfyUI-KJNodes"
     "https://github.com/kmuhajfwof/videohelper1output"
-    "https://github.com/PozzettiAndrea/ComfyUI-SAM3"
+    "https://github.com/kmuhajfwof/sam3patched"
     "https://github.com/cubiq/ComfyUI_essentials"
     "https://github.com/fq393/ComfyUI-ZMG-Nodes"
     "https://github.com/kijai/ComfyUI-WanAnimatePreprocess"
