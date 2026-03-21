@@ -12,7 +12,7 @@ NODES=(
     "https://github.com/chflame163/ComfyUI_LayerStyle"
     "https://github.com/yolain/ComfyUI-Easy-Use"
     "https://github.com/kijai/ComfyUI-KJNodes"
-    "https://github.com/kmuhajfwof/videohelper1output"
+    "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
     "https://github.com/kmuhajfwof/sam3patched"
     "https://github.com/cubiq/ComfyUI_essentials"
     "https://github.com/kijai/ComfyUI-WanAnimatePreprocess"
